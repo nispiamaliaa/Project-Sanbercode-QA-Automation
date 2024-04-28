@@ -12,4 +12,3 @@ Proyek ini merupakan implementasi dari dua soal tentang bahasa pemrograman JavaS
 2. Buka terminal dan arahkan ke direktori proyek ini.
 3. Untuk menjalankan soal 1, jalankan perintah: node soal1.js
 4. Untuk menjalankan soal 2, jalankan perintah: node soal2.js
-# Project-Sanbercode-QA-Automation
